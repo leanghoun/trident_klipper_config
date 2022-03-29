@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@500&family=Roboto+Mono:wght@300&display=swap');
+
+/*  Google Fonts
+    font-family: 'Maven Pro', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+*/
+
+#app > div.v-application--wrap > div:nth-child(2) > header > div > div.v-toolbar__title.text-no-wrap.ml-0.pl-2.mr-2 {
+    font-family: 'Maven Pro', sans-serif !important;
+}
+
+#page-container > div > div > div.col-7.col > div.v-card.v-sheet.theme--dark.panel.miniconsole-panel.mb-3.mb-md-6 > div > div > div.v-card__text.order-2.pa-0 > div > div > div > div.os-padding > div > div > div {
+    /*font-family: 'Roboto Mono', monospace !important;*/
+}
