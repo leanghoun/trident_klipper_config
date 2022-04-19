@@ -21,7 +21,7 @@ camera="usb"
 #
 # Defaults to a resolution of 640x480 px and a framerate of 10 fps
 #
-camera_usb_options="-r 640x480 -f 10 -d 1e2f:9731"
+camera_usb_options="-rot 90 -r 640x480 -f 10 -d 1e2f:9731"
 
 ### Additional webcam devices known to cause problems with -f
 #
