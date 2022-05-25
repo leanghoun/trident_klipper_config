@@ -23,7 +23,7 @@ camera="usb"
 #
 # camera_usb_options="-r 640x480 -f 10 -d 1e2f:9731"
 # camera_usb_options="-r 1920x1080 -f 10 -d 1e2f:9731"
-camera_usb_options="-r 640x480 -f 10 -d 1e2f:9731"
+camera_usb_options="-r 1024x768 -f 10 -d 1e2f:9731"
 
 ### Additional webcam devices known to cause problems with -f
 #
